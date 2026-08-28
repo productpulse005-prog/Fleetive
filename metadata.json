@@ -1,0 +1,8 @@
+{
+  "name": "Fleetive — AI Telematics Operations Copilot",
+  "description": "Fleetive transforms high-volume vehicle telemetry and operational events into prioritized, explainable and actionable exceptions for fleet operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
